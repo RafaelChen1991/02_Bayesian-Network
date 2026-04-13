@@ -82,9 +82,3 @@ This suggests limited confounding in the current DAG.
 - Results depend on model assumptions
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python main.py
